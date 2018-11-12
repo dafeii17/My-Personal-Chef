@@ -2,7 +2,8 @@
 When we cook at home following recipes, it often occurred to us that we may not have all the ingredients required by one recipe. On the other hand, we may have some ingredients at home, for example lamb, or tofu, and we want to try some interesting ingredients which go well with the ingredients we have. 
 My-Personal-Chef is a platform which gives users suggestions for ingredients substitutes or complementing ingredients. The platform also features a food word analogy game. Here are few examples: apple stands to pear as fish stands to clam; beef stands to bay leaf as banana stands to rum, or toasted coconut.
 It is developed with Python, BeautifulSoup, natural language processing, Flask, HTML/CSS, and deployed on Heroku.
-### [Web App URL](https://my-personal-chef.herokuapp.com)
+### Web App URL:
+[https://my-personal-chef.herokuapp.com](https://my-personal-chef.herokuapp.com)
 ### How It Works
 #### Data Extraction & Processing
 The recipe collections on this platform were scrapped from celebrity chef [Jamie Oliver’s website](https://www.jamieoliver.com). The ingredients list for each recipe are parsed to remove special characters, quantity and quality descriptions, numbers, and then split into individual keywords. 
