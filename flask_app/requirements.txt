@@ -1,0 +1,7 @@
+dill==0.2.8.2
+flask==1.0.2
+jinja2==2.8
+pip==18.0
+gunicorn==19.9.0
+gensim==3.6.0
+
